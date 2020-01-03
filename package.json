@@ -1,5 +1,5 @@
 {
-  "name": "np-autocomplete",
+  "name": "@napopravku/np-autocomplete",
   "version": "0.0.1",
   "description": "Napopravku autocomplete jquery plugin",
   "main": "dist/autocomplete.min.js",
