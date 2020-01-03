@@ -1,1 +1,3 @@
-console.log('hello from index');
+import './autocomplete'
+
+console.log($.fn.autocomplete);

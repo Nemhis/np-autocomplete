@@ -1,8 +1,8 @@
 {
-  "name": "your-package-name",
+  "name": "np-autocomplete",
   "version": "0.0.1",
-  "description": "your description",
-  "main": "point main file, if it need",
+  "description": "Napopravku autocomplete jquery plugin",
+  "main": "dist/autocomplete.min.js",
   "files": [
     "dist"
   ],
@@ -11,13 +11,13 @@
     "start": "webpack-dev-server --config webpack.dev.js --open",
     "build": "webpack --optimize-minimize --mode production --progress --profile --colors --config webpack.prod.js"
   },
-  "repository": "repository address",
+  "repository": "Nemhis/np-autocomplete",
   "author": "nemhis <p.kurapov@napopravku.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "bag report address"
+    "url": "https://github.com/Nemhis/np-autocomplete"
   },
-  "homepage": "homepage or readme address",
+  "homepage": "https://github.com/Nemhis/np-autocomplete#readme",
   "devDependencies": {
     "webpack": "4.41.4",
     "webpack-cli": "3.3.10",

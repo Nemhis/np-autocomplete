@@ -1,1 +1,1 @@
-Repository description
+Napopravku autocomplete jquery plugin
