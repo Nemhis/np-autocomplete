@@ -9,6 +9,6 @@ module.exports = {
         umdNamedDefine: true
     },
     externals: {
-        jquery: 'jQuery'
+        jquery: 'jquery'
     }
 };
